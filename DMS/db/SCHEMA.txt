@@ -1,0 +1,5 @@
+dept#id#INT#name#STR##
+music#id#int#name#varchar##
+song#id#int#name#varchar##
+laptop#id#int##mpany##
+master#id#int#ame#varchar##
